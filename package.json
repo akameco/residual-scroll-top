@@ -1,6 +1,6 @@
 {
   "name": "residual-scroll-top",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Residual Scroll",
   "license": "MIT",
   "repository": "akameco/residual-scroll-top",
@@ -26,6 +26,8 @@
   },
   "xo": {
     "esnext": true,
-    "envs": ["browser"]
+    "envs": [
+      "browser"
+    ]
   }
 }
