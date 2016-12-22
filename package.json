@@ -1,0 +1,31 @@
+{
+  "name": "residual-scroll-top",
+  "version": "0.0.0",
+  "description": "Residual Scroll",
+  "license": "MIT",
+  "repository": "akameco/residual-scroll-top",
+  "author": {
+    "name": "akameco",
+    "email": "akameco.t@gmail.com",
+    "url": "akameco.github.io"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "devDependencies": {
+    "xo": "^0.17.0"
+  },
+  "xo": {
+    "esnext": true,
+    "envs": ["browser"]
+  }
+}
