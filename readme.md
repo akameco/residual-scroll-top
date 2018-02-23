@@ -1,5 +1,7 @@
 # residual-scroll-top [![Build Status](https://travis-ci.org/akameco/residual-scroll-top.svg?branch=master)](https://travis-ci.org/akameco/residual-scroll-top)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/residual-scroll-top.svg)](https://greenkeeper.io/)
+
 > Residual Scroll
 
 
